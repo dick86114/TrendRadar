@@ -11,32 +11,8 @@ vivo
 HyperOS
 小米汽车
 
-DeepSeek
-豆包
-kimi
-千问
-
-特斯拉
-马斯克
-
 微软
 Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -50,15 +26,3 @@ ai
 自动驾驶
 
 机器人
-
-芯片
-光刻机
-
-科技
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
